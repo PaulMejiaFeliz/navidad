@@ -1,0 +1,8 @@
+body{
+  background: url("fondonavidad.jpg") no-repeat center fixed;
+  background-size: contain;
+}
+
+.container{
+  background-color: rgba(255, 255, 255, 0.8);
+}
