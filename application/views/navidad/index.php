@@ -40,12 +40,14 @@
         </div>
       </div>
       <div class="row">
+        <h3>Registrados</h3>
         <table class="table">
           <thead>
             <tr>
               <th>Código</th>
-              <th>Nobre</th>
-              <th>Descripcion</th>
+              <th>Nombre</th>
+              <th>Descripción</th>
+              <th>Precio</th>
               <th>Operaciones</th>
             </tr>
           </thead>
